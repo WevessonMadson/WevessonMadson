@@ -1,5 +1,5 @@
 <h2>👋  Olá, meu nome é Wevesson Madson </h2>
-Estudante de desenvolvimento Back-end, tendo como principal linguagem o javascript.
+Estudante de desenvolvimento, tendo como principal linguagem o javascript.
 <br>
 Em busca de novos desafios em desenvolvimento de aplicações.
 <br><br>
